@@ -1,0 +1,167 @@
+[{
+    "type": "pageInfo",
+    "kind": "Subjective",
+    "course_title": "Lower Invertebrates",
+    "code": "AEB 200.2",
+    "session": "2008/2009",
+    "time": "180"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "Section A",
+    "Subheading": "- - - - -Attached- - - - - - "
+  },
+    {
+    "type": "heading",
+    "heading": "Section B",
+    "Subheading": "Answer All Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "In a tabular form, give two distinguishing structural differences between the following organisms:<br>(a) Rotifers vs. Gastrotrichs <br>(b) Acanthocephalans vs. Nematodes<br>(c) Kinorhyncha vs. Entoprocta <br>(d) Resistant vs. Non-resistant Ova",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<table style='border-collapse: collapse; width: 100%;'><tr><th style='border: 1px solid #ddd; padding: 8px;'>Organisms</th><th style='border: 1px solid #ddd; padding: 8px;'>Difference 1</th><th style='border: 1px solid #ddd; padding: 8px;'>Difference 2</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>(a) Rotifers vs. Gastrotrichs</td><td style='border: 1px solid #ddd; padding: 8px;'>Rotifers have a corona (ciliated crown); Gastrotrichs lack this</td><td style='border: 1px solid #ddd; padding: 8px;'>Rotifers possess a mastax (jawed pharynx); Gastrotrichs have a simple pharynx</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>(b) Acanthocephalans vs. Nematodes</td><td style='border: 1px solid #ddd; padding: 8px;'>Acanthocephalans have a retractable proboscis with hooks; Nematodes lack this</td><td style='border: 1px solid #ddd; padding: 8px;'>Acanthocephalans lack a digestive tract; Nematodes have a complete gut</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>(c) Kinorhyncha vs. Entoprocta</td><td style='border: 1px solid #ddd; padding: 8px;'>Kinorhyncha have segmented cuticular plates; Entoprocta have a cup-shaped body</td><td style='border: 1px solid #ddd; padding: 8px;'>Kinorhyncha are burrowers; Entoprocta are sessile filter-feeders</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>(d) Resistant vs. Non-resistant Ova</td><td style='border: 1px solid #ddd; padding: 8px;'>Resistant ova have thick shells for harsh conditions; Non-resistant have thin shells</td><td style='border: 1px solid #ddd; padding: 8px;'>Resistant ova undergo diapause; Non-resistant ova hatch immediately</td></tr></table>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Key Structural Differences:</strong></p><ul><li><strong>Rotifers vs. Gastrotrichs</strong>: The corona and mastax are unique to rotifers, aiding in feeding and locomotion.</li><li><strong>Acanthocephalans vs. Nematodes</strong>: The proboscis and gut absence are adaptations for parasitic lifestyles in Acanthocephalans.</li><li><strong>Kinorhyncha vs. Entoprocta</strong>: Body structure reflects their ecological niches (burrowing vs. sessile).</li><li><strong>Ova Types</strong>: Shell thickness and hatching behavior relate to environmental survival strategies.</li></ul></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Explain or define the following terms: <br>(a) Wheel bearer<br>(b) Epizootic organism<br>(c) Gamete machine<br>(d) Parthenogenesis:<br>(e) Hermaphroditism <br>(f) Coelomate animals <br>(g) Pseudo-coelomate animals<br>(h) Zonites<br>(i) Lemnisei<br>(j) Syncytial Epidermis",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<ul><li><strong>(a) Wheel bearer</strong>: Refers to rotifers, named for their rotating, ciliated corona resembling a wheel.</li><li><strong>(b) Epizootic organism</strong>: A pathogen causing disease outbreaks in animal populations.</li><li><strong>(c) Gamete machine</strong>: A term for organisms (e.g., some parasites) specialized solely for reproduction.</li><li><strong>(d) Parthenogenesis</strong>: Asexual reproduction where offspring develop from unfertilized eggs.</li><li><strong>(e) Hermaphroditism</strong>: Possession of both male and female reproductive organs in one individual.</li><li><strong>(f) Coelomate animals</strong>: Have a true body cavity (coelom) lined with mesoderm.</li><li><strong>(g) Pseudo-coelomate animals</strong>: Have a body cavity not fully lined by mesoderm (e.g., nematodes).</li><li><strong>(h) Zonites</strong>: Body segments in kinorhynchs, each with cuticular plates.</li><li><strong>(i) Lemnisei</strong>: Lateral sensory organs in Acanthocephalans.</li><li><strong>(j) Syncytial Epidermis</strong>: A multinucleated outer layer (e.g., in some flatworms).</li></ul>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Terminology Context:</strong></p><ol><li><strong>Rotifers</strong>: Their corona's motion aids in feeding and movement.</li><li><strong>Epizootics</strong>: Analogous to epidemics but in animals (e.g., avian flu).</li><li><strong>Gamete machines</strong>: Seen in parasitic nematodes like <em>Ascaris</em>, which prioritize reproduction.</li><li><strong>Parthenogenesis</strong>: Common in rotifers and some insects; ensures rapid population growth.</li><li><strong>Coelomates</strong>: Include annelids and arthropods; the coelom cushions organs.</li><li><strong>Pseudocoelomates</strong>: The fluid-filled cavity aids in hydrostatic skeleton function.</li></ol></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6a",
+    "Question": {
+      "content": "Draw the life cycle of an Acanthocephalan showing the different well-labeled stages.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<strong>Life Cycle Stages:</strong><br>1. <u>Egg</u>: Released in definitive host's feces.<br>2. <u>Acanthella</u>: Larva forms in intermediate host (e.g., arthropod).<br>3. <u>Cystacanth</u>: Infective stage; remains in intermediate host.<br>4. <u>Adult</u>: Matures in vertebrate host's intestine after ingestion."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Acanthocephalan Life Cycle:</strong></p><ol><li><strong>Egg</strong>: Resistant to desiccation; survives in soil/water.</li><li><strong>Acanthella</u>: Develops hooks and proboscis in arthropods (e.g., beetles).</li><li><strong>Cystacanth</u>: Encysts in host tissues; waits for predation.</li><li><strong>Adult</u>: Attaches to intestinal wall using spined proboscis.</li></ol><p><em>Note</em>: Requires two hosts (intermediate + definitive).</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6b",
+    "Question": {
+      "content": "What happens to the final larval stage (cystacanth) if it fails to locate the final host?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The cystacanth remains encysted in the intermediate host indefinitely, unable to mature or reproduce."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Failed Transmission:</strong></p><ul><li>The <strong>cystacanth</strong> relies on the intermediate host being eaten by a vertebrate (e.g., bird, mammal).</li><li>If not consumed, it <strong>dies with the intermediate host</strong>, ending the life cycle.</li><li>Some species may persist for years in cysts, awaiting accidental ingestion.</li></ul></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "List three (3) morphological differences between worms of the superfamily <em>Ancylostomatidae</em> (Hookworms).",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "i. <strong>Buccal capsule</strong>: Contains cutting plates (<em>Ancylostoma</em>) or teeth (<em>Necator</em>).<br>ii. <strong>Size</strong>: Males are smaller with a copulatory bursa.<br>iii. <strong>Esophageal shape</strong>: Varies between species (e.g., cylindrical vs. club-shaped)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Hookworm Adaptations:</strong></p><ol><li><strong>Buccal capsule</strong>: Cutting structures aid in blood-feeding from intestinal walls.</li><li><strong>Sexual dimorphism</strong>: Males use the bursa to clasp females during mating.</li><li><strong>Esophagus</strong>: Shape correlates with feeding efficiency and host specificity.</li></ol><p><em>Example</em>: <em>Ancylostoma duodenale</em> vs. <em>Necator americanus</em>.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7a",
+    "Question": {
+      "content": "List three (3) morphological differences between worms of the superfamily <em>Ascaridoidea</em> (roundworms) and the family <em>Ancylostomatidae</em> (Hookworms).",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<table style='border-collapse: collapse; width: 100%;'><tr><th style='border: 1px solid #ddd; padding: 8px;'>Feature</th><th style='border: 1px solid #ddd; padding: 8px;'><em>Ascaridoidea</em> (e.g., <em>Ascaris</em>)</th><th style='border: 1px solid #ddd; padding: 8px;'><em>Ancylostomatidae</em> (Hookworms)</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'><strong>Mouthparts</strong></td><td style='border: 1px solid #ddd; padding: 8px;'>Simple, no cutting structures</td><td style='border: 1px solid #ddd; padding: 8px;'>Teeth or cutting plates</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'><strong>Size</strong></td><td style='border: 1px solid #ddd; padding: 8px;'>Large (15-35 cm)</td><td style='border: 1px solid #ddd; padding: 8px;'>Small (5-13 mm)</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'><strong>Eggs</strong></td><td style='border: 1px solid #ddd; padding: 8px;'>Thick-shelled, spherical</td><td style='border: 1px solid #ddd; padding: 8px;'>Thin-shelled, oval</td></tr></table>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Key Differences:</strong></p><ol><li><strong>Mouthparts</strong>: Hookworms use teeth/plates to latch onto intestinal walls for blood-feeding; roundworms lack these adaptations.</li><li><strong>Size</strong>: <em>Ascaris</em> is macroscopic, while hookworms are smaller but more pathogenic per individual.</li><li><strong>Eggs</strong>: Roundworm eggs survive harsh environments due to thick shells; hookworm eggs hatch rapidly in soil.</li></ol></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7b",
+    "Question": {
+      "content": "In what ways does man become infested by these worms? (List at least 6 different ways)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<ol><li><strong>Ingestion of eggs</strong>: Consuming contaminated food/water (e.g., <em>Ascaris</em>).</li><li><strong>Skin penetration</strong>: Larvae burrow through bare feet (e.g., hookworms).</li><li><strong>Vector-borne</strong>: Mosquito bites transmit filarial worms (e.g., <em>Wuchereria</em>).</li><li><strong>Autoinfection</strong>: Scratching perianal region (e.g., <em>Enterobius</em>).</li><li><strong>Undercooked meat</strong>: Eating infected pork/beef (e.g., <em>Trichinella</em>).</li><li><strong>Transplacental</strong>: Mother to fetus (e.g., <em>Strongyloides</em>).</li></ol>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Transmission Routes:</strong></p><ul><li><strong>Fecal-oral</strong>: Poor sanitation spreads <em>Ascaris</em> eggs.</li><li><strong>Soil contact</strong>: Hookworm larvae thrive in warm, moist soil.</li><li><strong>Vectors</strong>: Mosquitoes inject filarial larvae during blood meals.</li><li><strong>Autoinfection</strong>: Common in pinworms due to egg deposition near the anus.</li><li><strong>Foodborne</strong>: <em>Trichinella</em> cysts in undercooked meat hatch in intestines.</li><li><strong>Congenital</strong>: Rare but severe in immunocompromised hosts.</li></ul></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8a",
+    "Question": {
+      "content": "With annotated diagram, describe the life cycles of any two of the following nematodes: (i) Hookworms, (ii) Filarial worms, (iii) Roundworms (<em>Ascaris</em>).",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<br><img class='imgAns thumbnail' src='https://lh3.googleusercontent.com/d/18HSCBSpz-kWXZ93t6DwPjIruD8xsmpO1' alt='Hookworm life cycle'> <strong>1. Hookworm (<em>Necator americanus</em>) Life Cycle:</strong><br>① <u>Eggs</u>: Passed in feces → hatch in soil.<br>② <u>Larvae</u>: Develop into infective L3 stage in soil.<br>③ <u>Skin penetration</u>: Larvae enter via bare feet.<br>④ <u>Migration</u>: Travel to lungs → coughed up/swallowed.<br>⑤ <u>Adult</u>: Attach to small intestine; feed on blood.<br><br><br><img class='imgAns thumbnail' src='https://lh3.googleusercontent.com/d/18URDLuc7H12I44zt-T_ckZ5Rk0LsLy9d' alt='Filarial Worm life cycle'><strong>2. Filarial Worm (<em>Wuchereria bancrofti</em>) Life Cycle:</strong><br>① <u>Mosquito bite</u>: Injects L3 larvae.<br>② <u>Migration</u>: Larvae move to lymphatics.<br>③ <u>Adult worms</u>: Cause lymphatic obstruction (elephantiasis).<br>④ <u>Microfilariae</u>: Released into blood; ingested by mosquitoes.<br ><br> <strong>3. Sugar Worm</strong><img class='imgAns thumbnail' src='https://lh3.googleusercontent.com/d/18HaSKE9mjGg3vIuEuRKbodeP7KezXTOP' alt='Sugar worm life cycle'>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Life Cycle Highlights:</strong></p><ul><li><strong>Hookworms</strong>: Require soil maturation and skin penetration; cause anemia.</li><li><strong>Filarial worms</strong>: Depend on mosquito vectors; chronic infections lead to lymphedema.</li><li><em>Note</em>: <em>Ascaris</em> life cycle involves lung migration but no vector.</li></ul></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8b",
+    "Question": {
+      "content": "Write on the prevention and control of any two named intestinal nematodes.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<strong>A. <em>Ascaris lumbricoides</em> (Roundworm):</strong><br>① <u>Sanitation</u>: Proper sewage disposal to prevent egg contamination.<br>② <u>Hygiene</u>: Handwashing before eating/after defecation.<br>③ <u>Health education</u>: Community awareness on transmission.<br><br><strong>B. <em>Ancylostoma duodenale</em> (Hookworm):</strong><br>① <u>Footwear</u>: Wear shoes to prevent larval penetration.<br>② <u>Mass deworming</u>: Albendazole/mebendazole programs.<br>③ <u>Soil treatment</u>: Lime application to kill larvae."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Control Strategies:</strong></p><ol><li><strong>Roundworms</strong>: Break the fecal-oral cycle through infrastructure and behavior change.</li><li><strong>Hookworms</strong>: Combine personal protection (footwear) with chemical interventions.</li></ol><p><em>Global programs</em>: WHO recommends periodic deworming in endemic areas.</p></div>"
+    }
+  }
+]
