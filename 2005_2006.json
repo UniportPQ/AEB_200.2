@@ -1,0 +1,333 @@
+[{
+    "type": "pageInfo",
+    "kind": "Subjective",
+    "course_title": "Lower Invertebrates",
+    "code": "AEB 200.2",
+    "session": "2005/2006",
+    "time": "180"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "The type of feeding mechanism in chromatophores is ______",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "photosynthetic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Chromatophores</strong> are pigment-containing cells found in certain protozoans and lower invertebrates. Their feeding mechanism is <strong>photosynthetic</strong>, meaning they convert light energy into chemical energy (e.g., via chlorophyll) to synthesize food, similar to plants.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "List two characteristics of the order Volvocida",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "i. Colonial or unicellular flagellates<br>ii. Presence of chlorophyll for photosynthesis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Order Volvocida</strong> includes green algae like <em>Volvox</em> (colonial) and <em>Chlamydomonas</em> (unicellular). Key traits:</p><ul><li><strong>Flagella</strong>: Used for movement in aquatic environments.</li><li><strong>Chlorophyll</strong>: Enables photosynthesis, giving them a green color.</li></ul></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Dinoflagellata has ______ apparatus, which is made up of ______ substance and contain longitudinal grooves called ______",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "light-sensitive; cellulose; sulcus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Dinoflagellates</strong> possess:</p><ol><li><strong>Light-sensitive apparatus</strong>: Eyespots detect light for photosynthesis.</li><li><strong>Cellulose plates</strong>: Form a rigid structure called the <em>theca</em>.</li><li><strong>Sulcus</strong>: A longitudinal groove housing the posterior flagellum, aiding movement.</li></ol></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Cryptomonadida is ______ in structure and it’s nutrition is ______",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "unicellular; mixotrophic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Cryptomonadida</strong> are:</p><ul><li><strong>Unicellular</strong>: Single-celled with two flagella.</li><li><strong>Mixotrophic</strong>: Combine photosynthesis (via chloroplasts) and phagotrophy (ingesting particles) depending on environmental conditions.</li></ul></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Chrysomonadida has ______ flagella and 1-2 ______",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "two; chloroplasts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Chrysomonadida</strong> features:</p><ul><li><strong>Two flagella</strong>: One long and one short, used for locomotion.</li><li><strong>1-2 chloroplasts</strong>: Contain pigments like fucoxanthin, giving a golden-brown color.</li></ul></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Mention 3 characteristics of Zoomastigophora",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "i. Lack chloroplasts<br>ii. Heterotrophic nutrition<br>iii. Possess one or more flagella for locomotion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Zoomastigophora</strong> (zooflagellates) are characterized by:</p><ol><li><strong>No chloroplasts</strong>: Rely entirely on organic matter.</li><li><strong>Heterotrophy</strong>: Absorb nutrients or phagocytose prey.</li><li><strong>Flagella</strong>: Primary means of movement; some species have multiple.</li></ol></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Members of order Kinetoplastida are ______ and ______ parasites",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "free-living; pathogenic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Kinetoplastida</strong> include:</p><ul><li><strong>Free-living species</strong>: Found in freshwater/marine environments.</li><li><strong>Pathogenic parasites</strong>: E.g., <em>Trypanosoma</em> (causes sleeping sickness) and <em>Leishmania</em>.</li></ul><p>They are identified by a <em>kinetoplast</em> (a mass of mitochondrial DNA).</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Giardia lamblia has ______ symmetry",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "bilateral"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Giardia lamblia</strong>, a parasitic diplomonad, exhibits <strong>bilateral symmetry</strong>. Its pear-shaped body is mirrored along a central axis, an adaptation for attaching to host intestinal walls via adhesive disks.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Chrysomonadida has ______ in structure and it's nutrition is ______",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "two flagella; mixotrophic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Chrysomonadida</strong> are unicellular algae with:</p><ul><li><strong>Two flagella</strong> (one long, one short) for locomotion.</li><li><strong>Mixotrophic nutrition</strong>: They perform photosynthesis using chloroplasts <em>and</em> ingest organic matter when light is limited.</li></ul></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Mention 3 characteristics of zoomastigophorans",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "i. Lack chloroplasts<br>ii. Heterotrophic nutrition<br>iii. Possess flagella for movement"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Zoomastigophorans</strong> (zooflagellates) are characterized by:</p><ol><li><strong>No chloroplasts</strong>: Rely entirely on organic matter.</li><li><strong>Heterotrophy</strong>: Absorb nutrients or engulf prey.</li><li><strong>Flagella</strong>: One or more whip-like structures for locomotion (e.g., <em>Trypanosoma</em>).</li></ol></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Members of order <em>kinetoplastida</em> are ______ and ______ parasites.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "free-living; pathogenic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Kinetoplastida</strong> include:</p><ul><li><strong>Free-living species</strong>: Found in water/soil (e.g., <em>Bodo</em>).</li><li><strong>Pathogenic parasites</strong>: Cause diseases like sleeping sickness (<em>Trypanosoma brucei</em>) and leishmaniasis (<em>Leishmania</em>).</li></ul><p>They are identified by a <strong>kinetoplast</strong> (mass of mitochondrial DNA).</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "<em>Giardia lamblia</em> has ______",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "bilateral symmetry"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Giardia lamblia</strong>, an intestinal parasite, exhibits <strong>bilateral symmetry</strong>. Its teardrop-shaped body is mirrored along a central axis, with two nuclei and adhesive disks for attaching to host intestines.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Four types of pseudopodia are:",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "i. Lobopodia<br>ii. Filopodia<br>iii. Reticulopodia<br>iv. Axopodia"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Pseudopodia</strong> are temporary cytoplasmic extensions used for movement/feeding:</p><ol><li><strong>Lobopodia</strong>: Blunt, finger-like (e.g., <em>Amoeba</em>).</li><li><strong>Filopodia</strong>: Thin, thread-like.</li><li><strong>Reticulopodia</strong>: Net-like, branching.</li><li><strong>Axopodia</strong>: Rigid, supported by microtubules (e.g., radiolarians).</li></ol></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Three species of <em>Entamoeba</em> are:",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "i. Entamoeba histolytica<br>ii. Entamoeba coli<br>iii. Entamoeba gingivalis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Entamoeba</strong> species include:</p><ul><li><strong>E. histolytica</strong>: Causes amoebic dysentery.</li><li><strong>E. coli</strong>: Commensal in human intestines.</li><li><strong>E. gingivalis</strong>: Found in oral cavities, associated with gum disease.</li></ul></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Three types of sexual reproduction in <em>Paramecium</em> are:",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "i. Conjugation<br>ii. Autogamy<br>iii. Cytogamy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Paramecium</strong> reproduces sexually via:</p><ol><li><strong>Conjugation</strong>: Temporary pairing to exchange micronuclei.</li><li><strong>Autogamy</strong>: Self-fertilization within a single cell.</li><li><strong>Cytogamy</strong>: Fusion of two cells without nuclear exchange (rare).</li></ol></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "Two characteristics of ciliates are:",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "i. Presence of cilia for movement<br>ii. Nuclear dimorphism (macro- and micronucleus)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Ciliates</strong> (e.g., <em>Paramecium</em>) are defined by:</p><ul><li><strong>Cilia</strong>: Hair-like structures covering the cell for locomotion/feeding.</li><li><strong>Nuclear dimorphism</strong>: <em>Macronucleus</em> (controls metabolism) and <em>micronucleus</em> (for genetic exchange).</li></ul></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "<em>Sporozoa</em> has three classes namely:",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "i. Gregarinia<br>ii. Coccidia<br>iii. Haemosporidia"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Sporozoa</strong> (apicomplexans) include:</p><ol><li><strong>Gregarinia</strong>: Parasites of invertebrates (e.g., <em>Monocystis</em>).</li><li><strong>Coccidia</strong>: Infect epithelial cells (e.g., <em>Eimeria</em>).</li><li><strong>Haemosporidia</strong>: Blood parasites (e.g., <em>Plasmodium</em> causing malaria).</li></ol></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "The 4 human parasitic <em>Plasmodium spp</em> are:",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "I. Plasmodium falciparum<br>II. Plasmodium vivax<br>III. Plasmodium ovale<br>IV. Plasmodium malariae"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Malaria-causing <em>Plasmodium</em> species:</strong></p><ol><li><strong>P. falciparum</strong>: Most deadly; causes severe malaria.</li><li><strong>P. vivax</strong>: Most widespread; dormant liver stages (hypnozoites).</li><li><strong>P. ovale</strong>: Rare; similar to P. vivax with relapses.</li><li><strong>P. malariae</strong>: Chronic infections; quartan fever (72-hour cycles).</li></ol><p>All are transmitted by <em>Anopheles</em> mosquitoes.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "Dominant cells of the skeletogenous layer in sponges are ______",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "sclerocytes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Sclerocytes</strong> are specialized cells in the <em>mesohyl</em> (skeletogenous layer) of sponges. They secrete structural elements:</p><ul><li><strong>Spicules</strong>: Made of silica or calcium carbonate.</li><li><strong>Spongin fibers</strong>: Collagen-based, found in bath sponges.</li></ul><p>These provide support and deter predators.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "By means of a diagram describe the structure of sponges and state the function of the different cell types. (use exam script to answer this number)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<img class='imgAns thumbnail' src='https://lh3.googleusercontent.com/d/188MCYYhMgTSfhJMWKRGT42a9v9TZIVhs'><strong>Sponge Structure:</strong><br>1. <u>Ostia</u> (pores) → <u>Spongocoel</u> (central cavity) → <u>Osculum</u> (exit opening)<br><br><strong>Cell Types:</strong><br>i. <strong>Choanocytes</strong>: Collar cells with flagella; create water currents and filter food.<br>ii. <strong>Pinacocytes</strong>: Form outer epithelium; regulate water flow.<br>iii. <strong>Archaeocytes</strong>: Amoeboid cells; digest food, secrete skeletal elements.<br>iv. <strong>Sclerocytes</strong>: Produce spicules/spongin.<br>v. <strong>Porocytes</strong>: Tubular cells forming ostia."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<img class='imgAns thumbnail' src='https://lh3.googleusercontent.com/d/188MCYYhMgTSfhJMWKRGT42a9v9TZIVhs'><div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #4CAF50;'><p><strong>Sponge Anatomy & Cell Functions:</strong></p><ol><li><strong>Ostia → Spongocoel → Osculum</strong>: Water flow pathway for filter-feeding.</li><li><strong>Choanocytes</strong>: Flagella beat to draw water; collars trap bacteria/particles.</li><li><strong>Pinacocytes</strong>: Protective outer layer; contract to adjust pore size.</li><li><strong>Archaeocytes</strong>: Differentiate into other cell types; key for regeneration.</li><li><strong>Sclerocytes</strong>: Secrete spicules (glass-like or chalky) for structural support.</li><li><strong>Porocytes</strong>: Gatekeepers of ostia; control water intake.</li></ol><p><em>Note</em>: Sponges lack true tissues; cells operate semi-independently.</p></div>"
+    }
+  }
+]
