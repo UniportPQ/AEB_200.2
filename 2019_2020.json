@@ -314,23 +314,22 @@
       "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><p><strong>Sarcomastigophora</strong>:<br/><br/>• Combines flagellates (<em>Mastigophora</em>) and amoebae (<em>Sarcodina</em>).<br/>• Named for <em>sarco-</em> (flesh/pseudopodia) + <em>mastigo-</em> (whip/flagella).</p></div>"
     }
   },
-  {
-    "type": "Question",
-    "name": "Question 20",
-    "Question": {
-      "content": "Sarcomastigophora is sub divided into ______ sub-phyla.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "2"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><p><strong>Two subphyla:</strong><br/><br/>1. <em>Mastigophora</em>: Flagellated (e.g., <em>Giardia</em>).<br/>2. <em>Sarcodina</em>: Pseudopodial (e.g., <em>Entamoeba</em>).</p></div>"
-    }
+{
+  "type": "Question",
+  "name": "Question 20",
+  "Question": {
+    "content": "Sarcomastigophora is subdivided into ______ subphyla.",
+    "type": "subjective"
   },
-  {
+  "Answer": {
+    "type": "string",
+    "content": "three"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><p><strong>Three subphyla:</strong><br/><br/>1. <em>Mastigophora</em>: Flagellated organisms (e.g., <em>Giardia</em>).<br/>2. <em>Sarcodina</em>: Pseudopodial organisms (e.g., <em>Entamoeba</em>).<br/>3. <em>Opalinata</em>: Ciliated protozoans found in amphibians.</p><p><em>Note:</em> This classification follows traditional protozoological taxonomy.</p></div>"
+  }
+},  {
     "type": "Question",
     "name": "Question 21",
     "Question": {
