@@ -361,23 +361,22 @@
       "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><p><strong>Pellicle</strong>:<br/><br/>• Flexible protein layer outside the plasma membrane.<br/>• Maintains shape (e.g., in <em>Euglena</em>).<br/>• Contrasts with rigid cell walls in plants/fungi.</p></div>"
     }
   },
-  {
-    "type": "Question",
-    "name": "Question 23",
-    "Question": {
-      "content": "Example of an organism that secretes shells on their cell membrane is ______.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Foraminifera, binary fission and syngamy"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><p><strong>Foraminifera</strong>:<br/><br/>• Marine protozoans with calcium carbonate shells.<br/>• <em>Reproduction</em>:<br/>  - <em>Binary fission</em>: Asexual cloning.<br/>  - <em>Syngamy</em>: Fusion of gametes for genetic diversity.</p></div>"
-    }
-  },
-  {
+{
+ "type": "Question",
+ "name": "Question 23",
+ "Question": {
+  "content": "Example of an organism that secretes shells on their cell membrane is ______.",
+  "type": "subjective"
+ },
+ "Answer": {
+  "type": "string",
+  "content": "Foraminifera"
+ },
+ "Explanation": {
+  "type": "string",
+  "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'>\n  <h3 style='margin-top: 0; color: #2c3e50;'>Foraminifera:</h3>\n  <ul style='padding-left: 20px; margin-bottom: 0;'>\n    <li><strong>Shell Composition</strong>: Secretes a calcium carbonate (CaCO<sub>3</sub>) shell called a <em>test</em>.</li>\n    <li><strong>Habitat</strong>: Mostly marine, found in benthic or planktonic environments.</li>\n    <li><strong>Reproduction</strong>:\n      <ul>\n        <li><em>Asexual</em>: Binary fission (splitting into identical cells).</li>\n        <li><em>Sexual</em>: Syngamy (fusion of gametes for genetic variation).</li>\n      </ul>\n    </li>\n    <li><strong>Significance</strong>: Used in paleoclimatology due to fossilized shells.</li>\n  </ul>\n</div>"
+ }
+},  {
     "type": "Question",
     "name": "Question 24",
     "Question": {
@@ -410,21 +409,21 @@
     }
   },
   {
-    "type": "Question",
-    "name": "Question 26",
-    "Question": {
-      "content": "______ is the blunt rounded tip of the locomotor organelles of sub phylum Sarcodina.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "lobopodium"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><p><strong>Lobopodium</strong>:<br/><br/>• Broad, blunt pseudopodia in amoebae (<em>Amoeba proteus</em>).<br/>• Used for crawling and phagocytosis.</p></div>"
-    }
-  },
+ "type": "Question",
+ "name": "Question 26",
+ "Question": {
+  "content": "______ is the blunt rounded tip of the locomotor organelles of subphylum Sarcodina.",
+  "type": "subjective"
+ },
+ "Answer": {
+  "type": "string",
+  "content": "Lobopodium"
+ },
+ "Explanation": {
+  "type": "string",
+  "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'>\n  <h3 style='margin-top: 0; color: #2c3e50;'>Lobopodium (in Sarcodina):</h3>\n  <ul style='padding-left: 20px; margin-bottom: 0;'>\n    <li><strong>Definition</strong>: A blunt, rounded cytoplasmic extension used for movement (pseudopodia) in Sarcodina (e.g., <em>Amoeba</em>).</li>\n    <li><strong>Function</strong>: Facilitates slow, creeping locomotion and phagocytosis.</li>\n    <li><strong>Contrast</strong>: Differs from other pseudopodia types (e.g., <em>filopodia</em> slender, <em>reticulopodia</em> net-like).</li>\n    <li><strong>Taxonomy</strong>: Subphylum Sarcodina includes protozoans that move via pseudopodia.</li>\n  </ul>\n</div>"
+ }
+},
   {
     "type": "Question",
     "name": "Question 27",
