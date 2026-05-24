@@ -1,0 +1,1344 @@
+[
+{
+  "type": "pageInfo",
+  "kind": "pureOBJ",
+  "course_title": "Animal and Environmental Biology",
+  "code": "AEB 200.1",
+  "session": "2023/2024",
+  "topics": ["Protista", "Kingdom Classification", "Sporozoa", "Protista Classification", "Ciliophora", "Locomotion", "Parasites", "Disease", "Sponges", "Coelenterates", "Germ Layers", "Platyhelminthes", "Body Cavity", "Worms", "Eumetazoa", "Animal Evolution", "Classification", "Cnidaria", "Anthozoa", "Medusa", "Pseudocoelomates", "Nematoda", "Parasitology", "Liver Fluke", "Trematoda", "Anatomy", "Water Flow", "Tapeworms", "Attachment", "Protozoa", "Mastigophora", "Sarcodina", "Malaria", "Biology", "Animal Classification", "Flukes", "Taxonomy"],
+  "time": "90"
+},
+{
+  "type": "Instruction",
+  "content": "Attempt All Questions"
+},
+{
+  "type": "Question",
+  "name": "Question 1",
+  "topic": ["Protista", "Kingdom Classification"],
+  "Question": {
+    "content": "Kingdom Protista includes organisms like which of the following groups?",
+    "type": "OBJ",
+    "options": [
+      "Euglena, spirogyta and pencillium",
+      "Amoeba, Euglena & diatom",
+      "Amoeba, Euglena and Pencillium",
+      "Amoeba, Euglena & diatom (with additional members)"
+    ]
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Kingdom Protista Members</h4><strong style='color: var(--strongColor);'>Protista includes:</strong><br>• Protozoa (Amoeba) — single-celled, animal-like<br>• Algae (Euglena, diatoms) — photosynthetic protists<br>• NOT Pencillium — this is a fungus (Kingdom Fungi)<br><br><strong style='color: var(--strongColor);'>Key Rule:</strong> Protista are <strong>single-celled eukaryotes</strong>. All members are microscopic organisms. Pencillium is multicellular and belongs to Fungi.</div>"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Amoeba, Euglena & diatom"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 2",
+  "topic": ["Sporozoa", "Protista Classification"],
+  "Question": {
+    "content": "Members of which phylum are characterized by the presence of spores that lack polar caps or polar filaments?",
+    "type": "OBJ",
+    "options": [
+      "Ciliophora",
+      "Acetospora",
+      "Micropora",
+      "Myxozoa"
+    ]
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Sporozoa Characteristics</h4><strong style='color: var(--strongColor);'>Acetospora:</strong> Have spores WITHOUT polar caps or polar filaments.<br><strong style='color: var(--strongColor);'>Micropora:</strong> Have spores WITH polar filaments (differ from Acetospora).<br><strong style='color: var(--strongColor);'>Myxozoa:</strong> Have spores WITH 2 to 4 polar capsules.<br><br><strong style='color: var(--strongColor);'>Key Difference:</strong> The <strong>absence of polar structures</strong> is what distinguishes Acetospora from other sporozoan groups.</div>"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Acetospora"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 3",
+  "topic": ["Ciliophora", "Locomotion", "Protista"],
+  "Question": {
+    "content": "What is the primary means of locomotion for organisms in phylum Ciliophora?",
+    "type": "OBJ",
+    "options": [
+      "Spores",
+      "Cilia",
+      "Flagella",
+      "Coelom"
+    ]
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Ciliate Movement</h4><strong style='color: var(--strongColor);'>Cilia:</strong> Short, hair-like structures that beat in coordinated waves<br>• Create water currents for movement<br>• Also used to sweep food into the mouth<br><br><strong style='color: var(--strongColor);'>Flagella:</strong> Longer, whip-like — found in Flagellates, not Ciliates<br><strong style='color: var(--strongColor);'>Example:</strong> Paramecium moves via beating cilia arranged in rows.</div>"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Cilia"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 4",
+  "topic": ["Ciliophora", "Parasites", "Disease"],
+  "Question": {
+    "content": "Name one pathogenic organism from phylum Ciliophora in the class Kinetofragminophora.",
+    "type": "OBJ",
+    "options": [
+      "Entamoeba histolytica",
+      "Trypanosoma Species",
+      "Balantidium coli",
+      "Plasmodium species"
+    ]
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Pathogenic Ciliates</h4><strong style='color: var(--strongColor);'>Balantidium coli:</strong> The <strong>only pathogenic ciliate</strong> in humans<br>• Causes balantidiasis (intestinal infection)<br>• Transmitted via contaminated food/water<br>• Symptoms: diarrhea, dysentery<br><br><strong style='color: var(--strongColor);'>Note:</strong> Other options are NOT ciliates:<br>• Entamoeba = Amoeba (Sarcodina)<br>• Trypanosoma = Flagellate (Mastigophora)<br>• Plasmodium = Sporozoan</div>"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Balantidium coli"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 5",
+  "topic": ["Sponges", "Coelenterates", "Germ Layers"],
+  "Question": {
+    "content": "Sponges and coelenterates resemble each other in being which type of animals?",
+    "type": "OBJ",
+    "options": [
+      "Monoblastic and acoelomate",
+      "Diploblastic and acoelomate",
+      "Triploblastic and acoelomate",
+      "Triploblastic and pseudo coelomate"
+    ]
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Germ Layer Classification</h4><strong style='color: var(--strongColor);'>Sponges:</strong> Diploblastic<br>• 2 germ layers: Ectoderm & Endoderm<br>• NO mesoderm layer<br>• NO body cavity (acoelomate)<br><br><strong style='color: var(--strongColor);'>Coelenterates (Cnidarians):</strong> Also Diploblastic<br>• 2 germ layers<br>• Primitive mesoglea (not true mesoderm)<br>• NO true coelom<br><br><strong style='color: var(--strongColor);'>Key Similarity:</strong> Both are <strong>diploblastic</strong> (2 layers) and <strong>acoelomate</strong> (no body cavity).</div>"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Diploblastic and acoelomate"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 6",
+  "topic": ["Platyhelminthes", "Body Cavity", "Worms"],
+  "Question": {
+    "content": "A phylum with triploblastic acoelomate animals is which of the following?",
+    "type": "OBJ",
+    "options": [
+      "Platyhelminthes",
+      "Aschelminthes",
+      "Annelida",
+      "Arthropoda"
+    ]
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Platyhelminthes Characteristics</h4><strong style='color: var(--strongColor);'>Triploblastic:</strong> 3 germ layers (Ectoderm, Mesoderm, Endoderm)<br><strong style='color: var(--strongColor);'>Acoelomate:</strong> NO true body cavity (no coelom)<br><br><strong style='color: var(--strongColor);'>Examples:</strong> Flatworms, Planaria, Tapeworms<br><br><strong style='color: var(--strongColor);'>Compare:</strong><br>• Aschelminthes = Pseudocoelomate (has coelom)<br>• Annelida = Coelomate (has true coelom)<br>• Arthropoda = Coelomate (has coelom)</div>"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Platyhelminthes"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 7",
+  "topic": ["Eumetazoa", "Animal Evolution", "Classification"],
+  "Question": {
+    "content": "Other than Radiata, Eumetazoans are characterized by being which type of animals?",
+    "type": "OBJ",
+    "options": [
+      "Ablastie having no tissue layers",
+      "Triploblastic",
+      "Monoblastic",
+      "Diploblastic"
+    ]
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Eumetazoa Classification</h4><strong style='color: var(--strongColor);'>Radiata:</strong> Diploblastic (2 germ layers)<br>• Examples: Cnidarians, Sponges<br><br><strong style='color: var(--strongColor);'>Other Eumetazoans:</strong> Triploblastic (3 germ layers)<br>• Platyhelminthes (flatworms)<br>• Aschelminthes (roundworms)<br>• Annelida (segmented worms)<br>• Arthropoda, Mollusca, Chordata (and others)<br><br><strong style='color: var(--strongColor);'>Key Point:</strong> <strong>Triploblastic</strong> organization is the defining feature of all Eumetazoa except Radiata.</div>"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Triploblastic"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 8",
+  "topic": ["Cnidaria", "Anthozoa", "Medusa"],
+  "Question": {
+    "content": "Which class of cnidarians lacks a medusa stage in their life cycle?",
+    "type": "OBJ",
+    "options": [
+      "Hydrozoa",
+      "Cubazoa",
+      "Anthozoa",
+      "Scyphozoa"
+    ]
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Cnidarian Life Stages</h4><strong style='color: var(--strongColor);'>Most Cnidarians:</strong> Have both Polyp & Medusa stages<br>• Hydrozoa: Both polyp and medusa<br>• Scyphozoa: Both, but medusa is dominant<br>• Cubazoa: Both polyp and medusa<br><br><strong style='color: var(--strongColor);'>Anthozoa:</strong> <strong>ONLY Polyp stage</strong><br>• No free-swimming medusa<br>• Examples: Corals, Sea anemones<br>• Remain attached to substrate<br><br><strong style='color: var(--strongColor);'>Key Difference:</strong> Anthozoans skip the medusa phase entirely.</div>"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Anthozoa"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 9",
+  "topic": ["Pseudocoelomates", "Nematoda", "Worms"],
+  "Question": {
+    "content": "The largest phylum of Pseudocoelomates is which of the following?",
+    "type": "OBJ",
+    "options": [
+      "Rotifera",
+      "Platyhelminthes",
+      "Cestoda",
+      "Nematoda"
+    ]
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Pseudocoelomate Phyla</h4><strong style='color: var(--strongColor);'>Nematoda:</strong> <strong>Largest pseudocoelomate phylum</strong><br>• Over 80,000 described species<br>• Round worms, hookworms, pinworms<br>• Found in soil, water, and as parasites<br><br><strong style='color: var(--strongColor);'>Other Pseudocoelomates:</strong><br>• Rotifera: Smaller; wheel animals<br>• Kinorhyncha, Loricifera (tiny)<br><br><strong style='color: var(--strongColor);'>Note:</strong> Platyhelminthes is <strong>acoelomate</strong>, not pseudocoelomate.</div>"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Nematoda"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 10",
+  "topic": ["Parasitology", "Liver Fluke", "Trematoda"],
+  "Question": {
+    "content": "In humans, the infective stage of the liver fluke is the?",
+    "type": "OBJ",
+    "options": [
+      "Sporocyst",
+      "Cercariae",
+      "Miracidium",
+      "Metacercaria"
+    ]
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Liver Fluke Life Cycle</h4><strong style='color: var(--strongColor);'>Lifecycle Stages:</strong><br>1. Miracidium → swims in water<br>2. Sporocyst → in snail (asexual)<br>3. Cercariae → free-swimming larvae<br>4. Metacercaria → in fish/vegetation<br><br><strong style='color: var(--strongColor);'>Infective to Humans:</strong> <strong>Metacercaria</strong><br>• Encysted in fish or aquatic plants<br>• Humans get infected by eating infected raw/undercooked fish<br>• Settles in liver bile ducts<br><br><strong style='color: var(--strongColor);'>Route:</strong> Contaminated water → snail → fish → human</div>"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Metacercaria"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 11",
+  "topic": ["Sponges", "Anatomy", "Water Flow"],
+  "Question": {
+    "content": "Water taken in through the pores (ostia) in sponges exits through which structure?",
+    "type": "OBJ",
+    "options": [
+      "Mesoglea",
+      "Osculum",
+      "Spicules",
+      "Gastrovascular cavity"
+    ]
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Sponge Water Circulation</h4><strong style='color: var(--strongColor);'>Water Entry:</strong><br>Ostia (pores) → trap food particles and oxygen<br><br><strong style='color: var(--strongColor);'>Water Exit:</strong> <strong>Osculum (large opening)</strong><br>• Single main opening at top/side<br>• Expelled water carries waste & CO₂<br><br><strong style='color: var(--strongColor);'>Path:</strong><br>Ostia → Spongocoel → Osculum<br><br><strong style='color: var(--strongColor);'>Other structures:</strong><br>• Spicules = skeleton (not exit)<br>• Mesoglea = jelly layer (not exit)</div>"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Osculum"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 12",
+  "topic": ["Tapeworms", "Parasites", "Attachment"],
+  "Question": {
+    "content": "Tapeworms attach to the digestive lining of the host by means of their?",
+    "type": "OBJ",
+    "options": [
+      "Proglottids",
+      "Scolex",
+      "Osculum",
+      "Stylets"
+    ]
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Tapeworm Anatomy</h4><strong style='color: var(--strongColor);'>Scolex:</strong> <strong>Head structure</strong> of tapeworm<br>• Contains hooks and suckers<br>• Attaches firmly to intestinal wall<br>• Prevents tapeworm from being expelled<br><br><strong style='color: var(--strongColor);'>Other Structures:</strong><br>• Proglottids = body segments (produce eggs)<br>• Osculum = sponge structure (not tapeworm)<br>• Stylets = nematode mouthpart<br><br><strong style='color: var(--strongColor);'>Function:</strong> The scolex ensures the tapeworm stays anchored in the host intestine.</div>"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Scolex"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 13",
+  "topic": ["Cnidaria", "Classification"],
+  "Question": {
+    "content": "Which of the following is NOT a member of the phylum Cnidaria?",
+    "type": "OBJ",
+    "options": [
+      "Jelly fish",
+      "Comb jelly",
+      "Hydra",
+      "Coral"
+    ]
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Cnidaria Members</h4><strong style='color: var(--strongColor);'>ARE in Cnidaria:</strong><br>• Jellyfish (Scyphozoa class)<br>• Hydra (Hydrozoa class)<br>• Corals (Anthozoa class)<br>• Sea anemones, sea pens<br><br><strong style='color: var(--strongColor);'>Comb Jelly:</strong> <strong>NOT Cnidaria</strong><br>• Belongs to phylum <strong>Ctenophora</strong> (separate phylum)<br>• Have comb-like rows of cilia (ctenes)<br>• Lack nematocysts (stinging cells)<br>• Biradial symmetry (not radial)<br><br><strong style='color: var(--strongColor);'>Key Difference:</strong> Ctenophores are similar to cnidarians but are a completely separate phylum.</div>"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Comb jelly"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 14",
+  "topic": ["Protozoa", "Mastigophora", "Classification"],
+  "Question": {
+    "content": "Trypanosoma Species belongs to which of the following protozoal groups?",
+    "type": "OBJ",
+    "options": [
+      "Mastigophora",
+      "Sarcodina",
+      "Sporozoans",
+      "Ciliate"
+    ]
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Trypanosoma Classification</h4><strong style='color: var(--strongColor);'>Mastigophora:</strong> <strong>Flagellate Protozoans</strong><br>• Move using flagella (whip-like structures)<br>• Trypanosoma = parasitic flagellate<br>• Causes sleeping sickness (African trypanosomiasis)<br>• Transmitted by tsetse fly<br><br><strong style='color: var(--strongColor);'>Other Groups:</strong><br>• Sarcodina = Amoebae (pseudopodia)<br>• Sporozoans = parasites (no motility)<br>• Ciliates = cilia for movement<br><br><strong style='color: var(--strongColor);'>Key Feature:</strong> Trypanosoma's flagellum propels it through blood and tissues.</div>"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Mastigophora"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 15",
+  "topic": ["Sarcodina", "Protozoa", "Protista"],
+  "Question": {
+    "content": "Sarcodina is a phylum of protozoa characterized by their possession of which movement structures?",
+    "type": "subjective"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Sarcodina Characteristics</h4><strong style='color: var(--strongColor);'>Pseudopodia:</strong> <strong>False feet</strong> (defining feature)<br>• Temporary projections of cytoplasm<br>• Change shape constantly (amoeboid movement)<br>• Used for locomotion AND feeding<br>• Can engulf food particles<br><br><strong style='color: var(--strongColor);'>Examples:</strong><br>• Amoeba proteus (common)<br>• Foraminifera (marine, limestone shells)<br>• Radiolaria (marine, silica shells)<br><br><strong style='color: var(--strongColor);'>Movement Type:</strong> Slow, flowing movement through pseudopodial extension and retraction.</div>"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Pseudopodia (false feet)"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 16",
+  "topic": ["Protozoa", "Malaria", "Parasitology"],
+  "Question": {
+    "content": "What is the infective stage of Plasmodium spp. to humans?",
+    "type": "OBJ",
+    "options": ["Gametocyte", "Merozoite", "Trophozoite", "Sporozoite"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Sporozoite"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Infective Stage of Plasmodium</h4><p>The life cycle of <em>Plasmodium</em> (malaria parasite) involves two hosts: the human and the female <em>Anopheles</em> mosquito.</p><p><strong>Key stages:</strong><br>- <em>Sporozoite</em>: Injected into humans during a mosquito bite — this is the INFECTIVE stage.<br>- <em>Merozoite</em>: Infects red blood cells after the liver stage.<br>- <em>Gametocyte</em>: Sexual stage; taken up by the mosquito.<br>- <em>Trophozoite</em>: Grows inside red blood cells.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Sporozoite — the stage injected by the mosquito into the human bloodstream.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 17",
+  "topic": ["Biology", "Animal Classification", "Cnidaria"],
+  "Question": {
+    "content": "Nematocysts are the specialized cells found in the members of which phylum?",
+    "type": "OBJ",
+    "options": ["Porifera", "Annelida", "Mollusca"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Porifera"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Nematocysts</h4><p>Nematocysts (cnidocytes/stinging cells) are the defining feature of phylum <strong>Cnidaria</strong> (jellyfish, hydra, sea anemones). However, the recorded answer in this exam key is <strong>Porifera (A)</strong>.</p><p><em>Note for students:</em> Biologically, nematocysts belong to Cnidaria. If you see this question in an exam, verify with your lecturer which answer is expected.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer per key: Porifera</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 18",
+  "topic": ["Parasitology", "Flukes"],
+  "Question": {
+    "content": "In humans, the infective stage of the liver fluke is the…",
+    "type": "OBJ",
+    "options": ["Sporocyst", "Cercaria", "Miracidium", "Metacercaria"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Metacercaria"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Life Cycle of Liver Fluke (Fasciola hepatica)</h4><p><strong>Stages in order:</strong><br>1. Egg<br>2. Miracidium — infects the snail (intermediate host)<br>3. Sporocyst → Redia → Cercaria (inside snail)<br>4. Cercaria leaves snail and encysts on aquatic vegetation as <strong>Metacercaria</strong><br>5. Definitive host ingests metacercaria on contaminated plants<br>6. Metacercaria excysts in gut and matures into adult fluke in bile ducts</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Metacercaria — the encysted stage on vegetation that infects humans/cattle.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 19",
+  "topic": ["Platyhelminthes", "Parasitology"],
+  "Question": {
+    "content": "All platyhelminths are hermaphrodites except the genus…",
+    "type": "OBJ",
+    "options": ["Schistosoma spp", "Planaria", "Paragonomus spp", "Fasciola spp"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Schistosoma spp"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Hermaphroditism in Platyhelminthes</h4><p>Most flatworms (Platyhelminthes) are <strong>hermaphrodites</strong> (monoecious) — they possess both male and female reproductive organs in one individual.</p><p><strong>The exception:</strong> <em>Schistosoma</em> spp (blood flukes) are <strong>dioecious</strong> — they have separate male and female individuals. The male has a special gynecophoral canal that holds the female permanently during mating.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Schistosoma spp — the only major dioecious (separate-sexed) platyhelminth genus.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 20",
+  "topic": ["Protozoa", "Biology"],
+  "Question": {
+    "content": "Members of the protozoa may be motile by all of the following methods EXCEPT…",
+    "type": "OBJ",
+    "options": ["Pseudopodia", "Flagella", "Gliding by slime secretion", "Cilia"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Gliding by slime secretion"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Protozoan Locomotion</h4><p>Protozoa use three main types of locomotory structures:<br>- <strong>Pseudopodia</strong> — cytoplasmic extensions (e.g., Amoeba, Entamoeba).<br>- <strong>Flagella</strong> — long whip-like projections (e.g., Trypanosoma, Euglena).<br>- <strong>Cilia</strong> — short, numerous hair-like structures (e.g., Paramecium).</p><p><strong>Gliding by slime secretion</strong> is not a recognized protozoan locomotion method. Gliding motility is seen in certain bacteria (myxobacteria) and some algae, not in protozoa.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Gliding by slime secretion — not used by protozoa.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 21",
+  "topic": ["Biology", "Protozoa"],
+  "Question": {
+    "content": "Which of the following is NOT a character of Kingdom Protista?",
+    "type": "OBJ",
+    "options": ["Protista are prokaryotic", "Body organization is cellular", "Some protists have cell walls", "Membrane bound organelles are present in cells"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Protista are prokaryotic"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Characteristics of Protista</h4><p>Protists are <strong>eukaryotic</strong> — they have a true, membrane-bound nucleus and membrane-bound organelles. This is what separates them from prokaryotes (bacteria and archaea).</p><p><strong>TRUE characters of Protista:</strong><br>- Cellular body organization (unicellular or simple colonial).<br>- Some have cell walls (e.g., diatoms, algae).<br>- Possess membrane-bound organelles (mitochondria, nucleus, etc.).</p><p><strong>FALSE statement:</strong> Protista are NOT prokaryotic — they are definitively eukaryotic.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Protista are prokaryotic — FALSE; they are eukaryotic organisms.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 22",
+  "topic": ["Protozoa", "Parasitology"],
+  "Question": {
+    "content": "Entamoeba histolytica causes…",
+    "type": "OBJ",
+    "options": ["Dysentery", "Typhoid", "Malaria", "Filaria"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Dysentery"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Entamoeba histolytica</h4><p><em>Entamoeba histolytica</em> is an intestinal protozoan parasite that causes <strong>amoebic dysentery</strong> (amoebiasis). It invades the intestinal wall causing ulcers, bloody diarrhea, and in severe cases, liver abscess.</p><p><strong>Compare with other diseases:</strong><br>- Typhoid → <em>Salmonella typhi</em> (bacterium)<br>- Malaria → <em>Plasmodium</em> spp (protozoan)<br>- Filaria → <em>Wuchereria bancrofti</em> (nematode)</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Dysentery (amoebic dysentery / amoebiasis).</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 23",
+  "topic": ["Protozoa", "Biology"],
+  "Question": {
+    "content": "The contractile vacuole in protozoans serves which of the following functions?",
+    "type": "OBJ",
+    "options": ["Osmoregulation", "Excretion", "Water absorption", "Circulation"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Osmoregulation"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Contractile Vacuole Function</h4><p>The <strong>contractile vacuole</strong> is found mainly in freshwater protozoans (e.g., Paramecium, Amoeba).</p><p><strong>How it works:</strong> Freshwater continuously enters the cell by osmosis (cell cytoplasm is more concentrated than surrounding water). The contractile vacuole collects this excess water and rhythmically contracts to expel it out of the cell — preventing the cell from bursting.</p><p>This process is called <strong>osmoregulation</strong> — maintaining the correct water/salt balance inside the cell.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Osmoregulation — removing excess water to maintain cell volume and ion balance.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 24",
+  "topic": ["Malaria", "Protozoa", "Parasitology"],
+  "Question": {
+    "content": "Sporogony of the malaria parasite occurs in the…",
+    "type": "OBJ",
+    "options": ["Liver of man", "Stomach of mosquito", "Red blood cell of man", "None of the above"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Stomach of mosquito"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Sporogony in Plasmodium</h4><p><strong>Sporogony</strong> is the sexual reproductive phase of the Plasmodium life cycle, and it occurs entirely inside the mosquito.</p><p><strong>Steps:</strong><br>1. Mosquito ingests gametocytes from infected blood.<br>2. In the <strong>stomach (midgut)</strong> of the mosquito, male and female gametocytes fuse to form a zygote.<br>3. Zygote → Ookinete → penetrates gut wall → forms Oocyst.<br>4. Oocyst undergoes sporogony → thousands of sporozoites produced.<br>5. Sporozoites migrate to salivary glands and are injected into the next human host.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Stomach of mosquito — the site of the sexual (sporogonic) phase.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 25",
+  "topic": ["Malaria", "Protozoa", "Parasitology"],
+  "Question": {
+    "content": "The infective stage of Plasmodium to man is…",
+    "type": "OBJ",
+    "options": ["Cryptomerozoite", "Merozoite", "Gametocyte", "Sporozoite"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Sporozoite"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Infective Stage to Man</h4><p>When an infected female <em>Anopheles</em> mosquito bites a human, it injects <strong>sporozoites</strong> stored in its salivary glands directly into the bloodstream.</p><p>The sporozoites then travel to the <strong>liver</strong> and invade hepatocytes, starting the exo-erythrocytic (pre-erythrocytic) cycle — the beginning of malaria infection.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Sporozoite — the stage that initiates infection in humans via mosquito bite.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 26",
+  "topic": ["Malaria", "Protozoa", "Parasitology"],
+  "Question": {
+    "content": "Sporozoites of Plasmodium are formed in…",
+    "type": "OBJ",
+    "options": ["Spores", "Sporoblasts", "Gametocytes", "Oocysts"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Oocysts"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Formation of Sporozoites</h4><p>After fertilization in the mosquito gut, the zygote becomes an <strong>ookinete</strong>, which penetrates the gut wall and forms an <strong>oocyst</strong> on the outer surface.</p><p>Inside the oocyst, sporogony occurs — the nucleus divides repeatedly, eventually producing thousands of <strong>sporozoites</strong>. When the oocyst matures and ruptures, sporozoites flood into the haemocoel and migrate to the mosquito's salivary glands.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Oocysts — sporozoites develop and are released from oocysts on the mosquito gut wall.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 27",
+  "topic": ["Protozoa", "Animal Classification"],
+  "Question": {
+    "content": "The subphylum Sarcomastigophora contains three super classes. Which of the following correctly lists these super classes?",
+    "type": "OBJ",
+    "options": ["Mastigophora, Coccidia, Gregainia", "Mastigophora, Opalinata, Coccidia", "Mastigophora, Gregarina, Opalinata", "Mastigophora, Opalinata, Sarcodina"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Mastigophora, Opalinata, Sarcodina"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Subphylum Sarcomastigophora — Three Superclasses</h4><p><strong>1. Mastigophora</strong> — flagellated protozoans. Move using one or more flagella.<br><em>Examples:</em> Trypanosoma, Leishmania, Euglena.</p><p><strong>2. Sarcodina</strong> — amoeba-like protozoans. Move using pseudopodia.<br><em>Examples:</em> Amoeba proteus, Entamoeba histolytica.</p><p><strong>3. Opalinata</strong> — covered with cilia-like flagella; found in the intestines of frogs and toads. Once classified with ciliates but now placed here.</p><p>Coccidia and Gregarina belong to phylum Apicomplexa, NOT Sarcomastigophora.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Mastigophora, Opalinata, Sarcodina.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 28",
+  "topic": ["Protozoa", "Biology"],
+  "Question": {
+    "content": "The most common method of asexual reproduction in the protozoa is by…",
+    "type": "OBJ",
+    "options": ["Conjugation", "Conidiospore reproduction", "Binary fission", "Binary fusion"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Binary fission"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Asexual Reproduction in Protozoa</h4><p><strong>Binary fission</strong> is the most widespread asexual reproduction method in protozoa. The parent cell's nucleus divides (mitosis), followed by division of the cytoplasm, producing two genetically identical daughter cells.</p><p><strong>Examples:</strong> Amoeba, Paramecium, Euglena, and Plasmodium (schizogony, a multiple-fission variant).</p><p><strong>Clarifications:</strong><br>- Conjugation = sexual process in ciliates (exchange of micronuclei); NOT asexual.<br>- Conidiospores = fungal reproductive structures, not found in protozoa.<br>- Binary fusion is not a recognized biological term.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Binary fission — the cell simply splits into two.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 29",
+  "topic": ["Protozoa", "Animal Classification", "Parasitology"],
+  "Question": {
+    "content": "Organisms that have a spore-forming stage in their life cycle and lack special locomotory organelles belong to which phylum of protozoa?",
+    "type": "OBJ",
+    "options": ["Sarcomastigophora", "Ciliophora", "Apicomplexa", "Mygozoa"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Apicomplexa"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Phylum Apicomplexa (formerly Sporozoa)</h4><p><strong>Defining features of Apicomplexa:</strong><br>1. <strong>No locomotory organelles</strong> in the adult/trophozoite stage — no cilia, flagella, or pseudopodia.<br>2. Produce <strong>spores/sporozoites</strong> as the infective stage in their life cycle.<br>3. Have an <strong>apical complex</strong> — a set of structures at the cell tip used to penetrate host cells.</p><p><strong>All are obligate intracellular parasites.</strong><br><em>Examples:</em> Plasmodium (malaria), Toxoplasma gondii, Cryptosporidium, Babesia.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Apicomplexa — spore-forming, non-motile obligate parasites.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 30",
+  "topic": ["Protozoa", "Animal Classification"],
+  "Question": {
+    "content": "The apical complex structure does NOT exist in the following groups of protozoans EXCEPT…",
+    "type": "OBJ",
+    "options": ["Ciliophora", "Acetospora", "Micropora", "Apicomplexa"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Apicomplexa"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">The Apical Complex</h4><p>The question uses \"EXCEPT\" — meaning it is asking which group <em>does</em> possess the apical complex (the exception to the rule).</p><p>The <strong>apical complex</strong> is a collection of specialized organelles at the anterior (apical) end of the cell, including:<br>- Polar rings<br>- Rhoptries (secrete invasion factors)<br>- Micronemes<br>- Conoid (in some)</p><p>This structure is unique to and <em>defines</em> the phylum <strong>Apicomplexa</strong>. It is used to penetrate and invade host cells. Ciliophora, Acetospora, and Micropora do NOT have it.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Apicomplexa — the only group here with the apical complex.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 31",
+  "topic": ["Protozoa", "Parasitology"],
+  "Question": {
+    "content": "The infections of Mygozoa are mostly associated with endothermic vertebrates EXCEPT…",
+    "type": "OBJ",
+    "options": ["Reptiles", "Fish", "Man", "Amphibians"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Fish"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Mygozoa (Myxozoa) Host Range</h4><p><strong>Endothermic (warm-blooded) vertebrates</strong> include: mammals (Man), birds, and some classifications include reptiles and amphibians.</p><p><strong>Fish</strong> are <em>ectothermic</em> (cold-blooded) — they regulate body temperature using the environment, not internal metabolism.</p><p>Since the question specifies infections associated with <em>endothermic</em> vertebrates, <strong>Fish</strong> — being ectothermic — are the exception.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Fish — ectothermic (cold-blooded), not endothermic.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 32",
+  "topic": ["Parasitology", "Platyhelminthes"],
+  "Question": {
+    "content": "Which one of the following causes filariasis?",
+    "type": "OBJ",
+    "options": ["Schistosoma spp", "Trichinella spp", "Culex spp", "Wuchereria spp"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Schistosoma spp"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Filariasis — Causative Agent</h4><p>The answer recorded in this exam key is <strong>Schistosoma spp (A)</strong>.</p><p><em>Important biological note:</em> Lymphatic filariasis (elephantiasis) is caused by <strong>Wuchereria bancrofti</strong> (a nematode), transmitted by <em>Culex</em> mosquitoes. <em>Schistosoma</em> causes schistosomiasis (bilharzia), not filariasis. This may be a key error — please confirm with your lecturer.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer per key: Schistosoma spp (A)</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 33",
+  "topic": ["Platyhelminthes", "Biology"],
+  "Question": {
+    "content": "Which of the following is a free-living platyhelminth?",
+    "type": "OBJ",
+    "options": ["Cestoda", "Trematoda", "Turbellaria", "Nematode"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Turbellaria"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Free-Living vs. Parasitic Platyhelminthes</h4><p>Phylum Platyhelminthes has three main classes:</p><p><strong>1. Turbellaria</strong> — mostly FREE-LIVING in freshwater, marine, or moist terrestrial habitats. Move using cilia. Classic example: Planaria (used in regeneration studies).</p><p><strong>2. Trematoda</strong> — ALL parasitic. Includes flukes (Fasciola hepatica, Schistosoma).</p><p><strong>3. Cestoda</strong> — ALL parasitic. Includes tapeworms (Taenia saginata, T. solium).</p><p><em>Nematodes</em> belong to a completely separate phylum (Nematoda), not Platyhelminthes.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Turbellaria — the free-living class of flatworms.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 34",
+  "topic": ["Parasitology", "Flukes"],
+  "Question": {
+    "content": "The common name for Fasciola hepatica is…",
+    "type": "OBJ",
+    "options": ["Liver fluke", "Lung fluke", "Blood fluke", "Bladder worm"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Liver fluke"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Fasciola hepatica</h4><p><em>Fasciola hepatica</em> = <strong>Liver fluke</strong>. It lives inside the bile ducts of the liver in its definitive hosts (commonly sheep, cattle, and occasionally humans), causing fascioliasis.</p><p><strong>Other flukes and their common names:</strong><br>- Lung fluke → <em>Paragonimus</em> westermani<br>- Blood fluke → <em>Schistosoma</em> spp<br>- Bladder worm → Cysticercus (larval stage of <em>Taenia</em> spp)</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Liver fluke.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 35",
+  "topic": ["Parasitology", "Platyhelminthes"],
+  "Question": {
+    "content": "You cannot contract which of these diseases by eating infected animal products?",
+    "type": "OBJ",
+    "options": ["Taeniasis", "Facioliasis", "Paragonomiasis", "Ascariasis"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Ascariasis"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Disease Transmission via Animal Products</h4><p><strong>Diseases contracted by eating infected animals/products:</strong><br>- <em>Taeniasis</em> — eating undercooked beef (T. saginata) or pork (T. solium) with cysticerci.<br>- <em>Fascioliasis</em> — eating aquatic vegetation with encysted metacercariae.<br>- <em>Paragonomiasis</em> — eating undercooked freshwater crabs or crayfish with metacercariae.</p><p><strong>Ascariasis</strong> is caused by <em>Ascaris lumbricoides</em>. Transmission occurs by swallowing embryonated eggs from contaminated soil, water, or unwashed vegetables — <strong>NOT</strong> from eating infected animal flesh.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Ascariasis — spread via soil-contaminated food/water, not animal products.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 36",
+  "topic": ["Tapeworms", "Platyhelminthes"],
+  "Question": {
+    "content": "The head of the tapeworm is called…",
+    "type": "OBJ",
+    "options": ["Proboscis", "Anteiasis", "Scolex", "Proglottids"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Scolex"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Structure of a Tapeworm (Cestoda)</h4><p>A tapeworm body has three distinct regions:<br><strong>1. Scolex</strong> — the \"head\"; equipped with suckers and sometimes hooks (rostellum) to anchor the worm to the intestinal wall of its host.<br><strong>2. Neck</strong> — the growth zone; new proglottids bud from here.<br><strong>3. Strobila</strong> — the long ribbon-like chain of <em>proglottids</em>. Each proglottid is a reproductive unit containing both male and female organs (monoecious).</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Scolex — the anchoring \"head\" of the tapeworm.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 37",
+  "topic": ["Platyhelminthes", "Parasitology"],
+  "Question": {
+    "content": "Which of the following is NOT monoecious (hermaphroditic)?",
+    "type": "OBJ",
+    "options": ["Schistosoma spp", "Fasciola spp", "Taenia spp", "Planaria"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Schistosoma spp"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Monoecious vs. Dioecious in Platyhelminthes</h4><p><strong>Monoecious</strong> = one individual has both male and female reproductive organs (hermaphrodite).<br><strong>Dioecious</strong> = separate male and female individuals.</p><p><strong>Monoecious flatworms:</strong><br>- <em>Fasciola spp</em> (liver fluke) — hermaphrodite.<br>- <em>Taenia spp</em> (tapeworm) — each proglottid contains both sex organs.<br>- <em>Planaria</em> (turbellarian) — hermaphrodite.</p><p><strong>Dioecious exception:</strong> <em>Schistosoma spp</em> (blood flukes) — separate sexes. The male has a gynecophoral canal that permanently holds the slender female.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Schistosoma spp — dioecious; separate males and females.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 38",
+  "topic": ["Platyhelminthes", "Biology"],
+  "Question": {
+    "content": "Which of the following has non-metameric segmentation?",
+    "type": "OBJ",
+    "options": ["Cestodes", "Nematodes", "Flukes", "Trematodes"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Cestodes"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Non-Metameric Segmentation</h4><p><strong>True metameric (metamerism) segmentation:</strong> Body divided into repeating segments each containing a complete set of organs (e.g., earthworms/Annelida).</p><p><strong>Cestodes (tapeworms)</strong> appear segmented via their <em>proglottids</em>, but this is <strong>pseudo-segmentation (strobilation)</strong> — not true metamerism. Each proglottid is a self-contained reproductive unit, NOT a true body segment with full organ systems.</p><p><em>Nematodes</em> and <em>Trematodes/Flukes</em> are not segmented at all.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Cestodes — proglottids represent non-metameric (false) segmentation.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 39",
+  "topic": ["Biology", "Animal Classification"],
+  "Question": {
+    "content": "Movement in Gnathostomulida is by…?",
+    "type": "OBJ",
+    "options": ["Gliding", "Swim loop", "Flukes", "Spirals"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Gliding"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Gnathostomulida Locomotion</h4><p><strong>Gnathostomulida</strong> (jaw worms) are microscopic, acoelomate marine invertebrates that live in interstitial spaces between sand grains.</p><p>They move by <strong>gliding</strong>, powered by monociliated epithelial cells covering the body surface. This cilia-driven gliding allows them to navigate efficiently through the tight interstitial environment of marine sediments.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Gliding — using monociliated body surface cells.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 40",
+  "topic": ["Biology", "Cnidaria", "Animal Classification"],
+  "Question": {
+    "content": "Cnidarians are…",
+    "type": "OBJ",
+    "options": ["Radially symmetrical", "Asymmetrical", "Bilaterally symmetrical", "Trisymmetrical"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Radially symmetrical"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Body Symmetry in Cnidaria</h4><p><strong>Cnidarians</strong> (jellyfish, sea anemones, corals, hydra) display <strong>radial symmetry</strong> — their body parts radiate from a central axis, and any longitudinal plane through the center produces mirror-image halves.</p><p><strong>Why radial?</strong> Cnidarians are sessile (corals, anemones) or slow-drifting (jellyfish). Radial symmetry allows them to detect food, predators, and stimuli from ALL directions equally — an adaptive advantage.</p><p><strong>Compare:</strong> Bilateral symmetry is found in more active, directionally-moving animals (worms, vertebrates, arthropods).</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Radially symmetrical.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 41",
+  "topic": ["Biology", "Taxonomy"],
+  "Question": {
+    "content": "Which branch of biological science deals with the identification, naming, and classification of living things based on common characteristics?",
+    "type": "OBJ",
+    "options": ["Taxonomy", "Phylogeny", "Nomenclature", "Binomial system"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Taxonomy"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Taxonomy</h4><p><strong>Taxonomy</strong> is the science of <em>identifying</em>, <em>naming</em>, and <em>classifying</em> organisms into hierarchical groups (taxa) based on shared structural, genetic, and evolutionary characteristics.</p><p><strong>Related but distinct terms:</strong><br>- <em>Phylogeny</em> — study of evolutionary history and relationships among organisms (family tree of life).<br>- <em>Nomenclature</em> — the formal system of assigning scientific names (a component of taxonomy).<br>- <em>Binomial system</em> — Linnaeus's two-name (Genus species) naming convention; a tool within nomenclature.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Taxonomy — the broad science of classifying and naming life.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 42",
+  "topic": ["Tapeworms", "Parasitology"],
+  "Question": {
+    "content": "Taenia saginata infection is caused by the consumption of infected…",
+    "type": "OBJ",
+    "options": ["Pork", "Fish", "Snail", "None of the above"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "None of the above"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Taenia saginata — The Beef Tapeworm</h4><p><em>Taenia saginata</em> is the <strong>beef tapeworm</strong>. Humans become infected by eating undercooked or raw <strong>beef</strong> containing the larval cysticerci (Cysticercus bovis).</p><p><strong>Compare with related parasites:</strong><br>- <em>Taenia solium</em> (pork tapeworm) → undercooked pork with Cysticercus cellulosae.<br>- <em>Diphyllobothrium latum</em> (fish tapeworm) → undercooked freshwater fish.</p><p>Since <strong>beef</strong> is not listed in the options (pork, fish, snail), the correct answer is <strong>None of the above</strong>.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: None of the above — T. saginata is transmitted via infected beef, not pork, fish, or snail.</p></div>"
+  }
+},
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "topic": ["Tapeworms", "Parasitology"],
+    "Question": {
+      "content": "Evagination of the bladder worm is subject to…",
+      "type": "OBJ",
+      "options": ["pH", "Temperature", "Both pH and temperature", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Both pH and temperature"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Bladder Worm Evagination</h4><p>The <strong>bladder worm</strong> (Cysticercus) is the larval stage of Taenia spp. When ingested by the definitive host, the scolex must evert (evaginate) out of the bladder to attach to the intestinal wall.</p><p>This evagination is triggered by two key factors:<br>- <strong>pH</strong>: The shift from acidic (stomach) to slightly alkaline (small intestine) environment.<br>- <strong>Temperature</strong>: Body temperature (37°C) of the definitive host activates the process.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Both pH and temperature (C).</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "topic": ["Biology", "Animal Classification"],
+    "Question": {
+      "content": "Sponges feed by…",
+      "type": "OBJ",
+      "options": ["Chasing prey", "Filter feeding", "Using gemules", "They do not need anything but water"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Filter feeding"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">How Sponges Feed</h4><p>Sponges (Phylum Porifera) are <strong>sessile filter feeders</strong>. They draw water in through tiny pores called <em>ostia</em>, and specialized cells called <strong>choanocytes</strong> (collar cells) beat their flagella to create a water current and trap food particles (bacteria, organic matter).</p><p>Water exits through a larger opening called the <em>osculum</em>.</p><p><em>Gemmules</em> are survival structures (asexual reproduction units), not a feeding method.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Filter feeding — water is drawn in and food particles trapped by choanocytes.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "topic": ["Parasitology", "Biology"],
+    "Question": {
+      "content": "Which of the following is NOT a phase in the life cycle of Strongylus stercoralis?",
+      "type": "OBJ",
+      "options": ["Parasitic", "Free living", "Auto-immune", "Migration"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Auto-immune"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Life Cycle of Strongyloides stercoralis</h4><p><em>Strongyloides stercoralis</em> (threadworm) has a uniquely complex life cycle with several phases:</p><p>- <strong>Free-living phase</strong>: Larvae can complete development in the soil without a host.<br>- <strong>Parasitic phase</strong>: Larvae penetrate human skin and migrate to the small intestine.<br>- <strong>Migration phase</strong>: Larvae travel via the bloodstream to the lungs, then to the gut (similar to Ascaris).<br>- <strong>Auto-infection</strong>: Filariform larvae can re-infect the host internally (not auto-immune).</p><p><strong>Auto-immune</strong> is an immunological disorder concept, not a phase in any parasite's life cycle.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Auto-immune — not a recognized phase in the life cycle of Strongyloides.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "topic": ["Biology", "Animal Classification"],
+    "Question": {
+      "content": "Zonites are body structures of which of the following?",
+      "type": "OBJ",
+      "options": ["Nematomorpha", "Kinorhyncha", "Nematoda", "Acanthocephala"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Acanthocephala"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Zonites</h4><p>Per the exam answer key, the recorded answer is <strong>Acanthocephala (D)</strong>.</p><p><em>Biological note:</em> Zonites are most classically associated with <strong>Kinorhyncha</strong> — microscopic marine invertebrates whose bodies are divided into exactly 13 segments called zonites. Confirm this with your course material, as the answer key records Acanthocephala.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer per key: Acanthocephala (D)</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "topic": ["Parasitology", "Biology"],
+    "Question": {
+      "content": "Which of the following is the common name of Dracunculus medinensis?",
+      "type": "OBJ",
+      "options": ["Guinea worm", "Round worm", "Whip worm", "Hook worm"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Guinea worm"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Dracunculus medinensis</h4><p><em>Dracunculus medinensis</em> = the <strong>Guinea worm</strong>. It causes dracunculiasis (Guinea worm disease). Infection occurs by drinking water containing infected Cyclops (water flea) copepods.</p><p><strong>Compare common names:</strong><br>- Round worm → <em>Ascaris lumbricoides</em><br>- Whip worm → <em>Trichuris trichiura</em><br>- Hook worm → <em>Ancylostoma duodenale / Necator americanus</em></p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Guinea worm.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "topic": ["Parasitology", "Platyhelminthes"],
+    "Question": {
+      "content": "The three main species of Schistosoma infecting humans include all EXCEPT…",
+      "type": "OBJ",
+      "options": ["S. mansoni", "S. haematobium", "S. melania", "S. japanicum"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "S. japanicum"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Main Human Schistosoma Species</h4><p>Per the answer key, the recorded answer is <strong>S. japanicum (D)</strong>.</p><p><em>Biological note:</em> The three main human species are typically listed as <em>S. mansoni</em>, <em>S. haematobium</em>, and <em>S. japonicum</em>. <em>S. melania</em> is not a recognized primary human pathogen, which would make C a stronger biological choice. Verify with your course notes.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer per key: S. japanicum (D)</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "topic": ["Parasitology", "Flukes"],
+    "Question": {
+      "content": "The infective stage of Paragonimus spp. is…",
+      "type": "OBJ",
+      "options": ["Redia", "Sporocyst", "Cercariae", "Metacercaria"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Metacercaria"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Infective Stage of Paragonimus (Lung Fluke)</h4><p><em>Paragonimus westermani</em> (lung fluke) life cycle stages:</p><p>1. Egg → Miracidium (infects freshwater snail)<br>2. Sporocyst → Redia → Cercaria (inside snail)<br>3. Cercaria exits snail and penetrates freshwater crab/crayfish<br>4. Encysts as <strong>Metacercaria</strong> inside the crustacean<br>5. Human eats undercooked crab/crayfish → metacercaria excysts and matures to adult in lungs</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Metacercaria — the stage encysted in freshwater crabs/crayfish that infects humans.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "topic": ["Parasitology", "Flukes"],
+    "Question": {
+      "content": "Where are sexually mature adult flukes found?",
+      "type": "OBJ",
+      "options": ["In the intermediate host", "In the definitive host", "Both a and b are correct", "None are the correct answer"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "In the definitive host"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Definitive vs. Intermediate Host</h4><p><strong>Definitive host</strong>: Where the parasite reaches sexual maturity and reproduces sexually. For flukes, this is the vertebrate host (humans, cattle, etc.).</p><p><strong>Intermediate host</strong>: Where the larval/asexual stages develop. For flukes, this is typically a snail (first intermediate host) and sometimes a second host (fish, crustacean).</p><p>Sexually mature adult flukes are found exclusively in the <strong>definitive host</strong>.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: In the definitive host (B) — where sexual reproduction and maturation occurs.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "topic": ["Biology", "Animal Classification"],
+    "Question": {
+      "content": "Acanthocephala is the…",
+      "type": "OBJ",
+      "options": ["Flat worm", "Spiny headed worm", "Round worm", "Aschelminthes"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Spiny headed worm"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Phylum Acanthocephala</h4><p>The name <em>Acanthocephala</em> comes from Greek: <em>akanthos</em> (thorn/spine) + <em>kephale</em> (head). They are commonly called <strong>spiny-headed worms</strong> or thorny-headed worms.</p><p><strong>Key features:</strong><br>- No digestive system (absorb nutrients directly through the body wall).<br>- Have a proboscis covered with hooks/spines used to anchor to the host intestinal wall.<br>- All are obligate parasites of vertebrates (adults) with arthropod intermediate hosts.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Spiny headed worm — named for their hook-covered proboscis.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "topic": ["Biology", "Animal Classification"],
+    "Question": {
+      "content": "The phylum Rynchocoela is known as…",
+      "type": "OBJ",
+      "options": ["Proboscis worm", "Diplostomum spp", "Eye fluke", "Cestoda"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Proboscis worm"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Phylum Rhynchocoela (Nemertea)</h4><p><strong>Rhynchocoela</strong> (also called Nemertea or Nemertini) are commonly known as <strong>proboscis worms</strong> or ribbon worms.</p><p><strong>Key features:</strong><br>- Possess an eversible proboscis (a long muscular tube) used for prey capture.<br>- First animals to have a true circulatory system and a complete digestive tract.<br>- Mostly free-living, marine predators; some are parasitic.<br>- Body is long, flattened, and ribbon-like.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Proboscis worm — named for their characteristic eversible proboscis.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "topic": ["Parasitology", "Flukes"],
+    "Question": {
+      "content": "Demonstration of eggs in sputum is associated with…",
+      "type": "OBJ",
+      "options": ["Fasciola hepatica", "Paragonimus westermani", "Turbellarians", "Schistosoma haematobium"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Paragonimus westermani"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Eggs in Sputum</h4><p><em>Paragonimus westermani</em> is the <strong>lung fluke</strong>. Adult worms live in cysts within the lung parenchyma. They release eggs that are coughed up in sputum or swallowed and passed in faeces.</p><p>Finding characteristic operculated eggs in sputum or stool is the classic diagnostic method for <strong>paragonimiasis</strong>.</p><p><strong>Compare egg locations:</strong><br>- <em>Fasciola hepatica</em> eggs → bile/faeces<br>- <em>Schistosoma haematobium</em> eggs → urine (haematuria)<br>- <em>Turbellarians</em> → free-living, not parasitic</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Paragonimus westermani — the lung fluke whose eggs appear in sputum.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "topic": ["Biology", "Animal Classification"],
+    "Question": {
+      "content": "The mastax is present in…?",
+      "type": "OBJ",
+      "options": ["Rotifera", "Porifera", "Gastrotricha", "Nematode"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rotifera"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">The Mastax — Defining Feature of Rotifera</h4><p>The <strong>mastax</strong> is a muscular, jaw-like grinding organ unique to <strong>Rotifera</strong> (wheel animals). It contains hard, chitinous structures called <em>trophi</em> that grind ingested food.</p><p>Rotifera are microscopic, mostly freshwater invertebrates named for their <em>corona</em> — a ring of cilia on the head that beats in a wheel-like pattern to draw food toward the mouth and into the mastax.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Rotifera — the mastax is their distinctive jaw-like grinding organ.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "topic": ["Biology"],
+    "Question": {
+      "content": "The endoskeleton of higher animals originates from…",
+      "type": "OBJ",
+      "options": ["Mesoderm", "Ectoderm", "Mesogloe", "Endoderm"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mesoderm"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Germ Layer Origins</h4><p>During embryonic development, three primary germ layers give rise to all body tissues:</p><p>- <strong>Ectoderm</strong>: Skin, nervous system, sense organs.<br>- <strong>Mesoderm</strong>: Muscles, bones, cartilage (endoskeleton), circulatory system, kidneys.<br>- <strong>Endoderm</strong>: Lining of the gut, liver, lungs, pancreas.</p><p>The <strong>endoskeleton</strong> (bones and cartilage) develops from the <strong>mesoderm</strong> layer.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Mesoderm — bones and cartilage are mesodermal derivatives.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "topic": ["Protozoa", "Biology"],
+    "Question": {
+      "content": "Diffusion and osmosis are common in…",
+      "type": "OBJ",
+      "options": ["Protozoans", "Sponges", "Arachnids", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Protozoans"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Gas Exchange and Osmoregulation in Protozoans</h4><p><strong>Protozoans</strong> are unicellular organisms with no specialized respiratory or excretory organs. They rely entirely on <strong>diffusion</strong> (for gas exchange — O\\(_2\\) in, CO\\(_2\\) out) and <strong>osmosis</strong> (water movement across the membrane) as their primary transport mechanisms.</p><p>Their large surface area-to-volume ratio makes these passive processes sufficient for all exchange needs. This is why the contractile vacuole is needed — to counter osmotic water influx.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Protozoans — diffusion and osmosis are their primary exchange mechanisms.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "topic": ["Biology", "Cnidaria", "Animal Classification"],
+    "Question": {
+      "content": "One of these is NOT a coelenterate…",
+      "type": "OBJ",
+      "options": ["Hydra", "Actinia", "Obella", "Radialaria"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Radialaria"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Coelenterates (Cnidaria)</h4><p><strong>Coelenterata</strong> (now Cnidaria) includes animals with nematocysts and radial symmetry:</p><p>- <em>Hydra</em> → Cnidaria (Class Hydrozoa) ✓<br>- <em>Actinia</em> → Sea anemone, Cnidaria (Class Anthozoa) ✓<br>- <em>Obella/Obelia</em> → Cnidaria (Class Hydrozoa) ✓<br>- <em>Radiolaria</em> → Marine <strong>protists</strong> (Kingdom Protista) with silica skeletons — NOT coelenterates ✗</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Radialaria — a protist, not a coelenterate/cnidarian.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "topic": ["Parasitology", "Biology"],
+    "Question": {
+      "content": "The infective stage of Ascaris lumbricoides is…",
+      "type": "OBJ",
+      "options": ["Egg", "1st stage larva", "2nd stage larva", "3rd stage larva"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2nd stage larva"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Infective Stage of Ascaris lumbricoides</h4><p><em>Ascaris lumbricoides</em> infection begins when embryonated eggs are ingested. The egg must develop in soil for about 2–3 weeks; inside it, the L1 larva moults to become the <strong>infective L2 (2nd stage larva)</strong>.</p><p><strong>Sequence:</strong><br>1. Unembryonated egg (passed in faeces) → develops in soil<br>2. Embryonated egg containing <strong>L2 larva</strong> → ingested by humans<br>3. L2 hatches in intestine → migrates via blood to lungs → L3, L4 → swallowed → adult in gut</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: 2nd stage larva — the infective embryonated larva inside the ingested egg.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "topic": ["Tapeworms", "Parasitology"],
+    "Question": {
+      "content": "Cysticercosis is associated with…",
+      "type": "OBJ",
+      "options": ["Humans", "Pork tapeworm", "Beef tapeworm", "Broad fish tapeworm"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pork tapeworm"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Cysticercosis</h4><p><strong>Cysticercosis</strong> is caused by <em>Taenia solium</em> — the <strong>pork tapeworm</strong>. It occurs when humans accidentally ingest <em>T. solium</em> eggs (from contaminated food/water or auto-infection), causing larval cysts (cysticerci) to form in tissues.</p><p><strong>Neurocysticercosis</strong> (cysts in the brain) is the most severe form and a leading cause of adult-onset epilepsy in endemic areas.</p><p><em>T. saginata</em> (beef tapeworm) does NOT cause cysticercosis in humans.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Pork tapeworm (Taenia solium).</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "topic": ["Parasitology", "Biology"],
+    "Question": {
+      "content": "Which one of the following is NOT a zoonotic infection?",
+      "type": "OBJ",
+      "options": ["Trypanosomiasis", "Taeniasis", "Ascariasis", "Fascioliasis"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ascariasis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Zoonotic vs. Non-Zoonotic Infections</h4><p>A <strong>zoonotic infection</strong> is one transmitted between animals and humans.</p><p>- <em>Trypanosomiasis</em>: Animal reservoir (cattle, wildlife) → transmitted by tsetse fly ✓ zoonotic<br>- <em>Taeniasis</em>: From eating infected beef or pork ✓ zoonotic<br>- <em>Fascioliasis</em>: Fasciola hepatica infects cattle/sheep; humans are incidental hosts ✓ zoonotic</p><p><strong>Ascariasis</strong> (<em>Ascaris lumbricoides</em>): Primarily a human-specific parasite transmitted via the fecal-oral route (contaminated soil/food). No significant animal reservoir in the human transmission cycle.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Ascariasis — primarily a human-adapted parasite with no major animal reservoir.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "topic": ["Biology", "Cnidaria"],
+    "Question": {
+      "content": "Hydra has which type of symmetry?",
+      "type": "OBJ",
+      "options": ["Absent", "Radial", "Bilateral", "Spherical"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Radial"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Body Symmetry of Hydra</h4><p><em>Hydra</em> is a freshwater cnidarian (Class Hydrozoa). Like all cnidarians, it displays <strong>radial symmetry</strong> — its tentacles, body column, and mouth are arranged around a central oral-aboral axis.</p><p>Any vertical plane through the central axis divides the hydra into mirror-image halves. This suits its sessile predatory lifestyle, enabling it to capture prey from any direction.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Radial symmetry.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "topic": ["Protozoa", "Animal Classification"],
+    "Question": {
+      "content": "The Acetospora are characterized by the presence of spores that lack…",
+      "type": "OBJ",
+      "options": ["Tentacles", "Sensory organs", "Apical complex", "Polar caps"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sensory organs"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Acetospora</h4><p><strong>Acetospora</strong> (now largely reclassified as Haplosporidia and Paramyxea) are spore-forming protistan parasites of marine invertebrates.</p><p>Their spores are structurally simple — they lack polar capsules, polar filaments, and the complex structures (including <strong>sensory organs</strong>) found in the spores of other groups like Myxozoa or Microspora. The answer per the key is <strong>sensory organs (B)</strong>.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer per key: Sensory organs (B) — Acetospora spores lack these structures.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "topic": ["Platyhelminthes", "Parasitology"],
+    "Question": {
+      "content": "Opisthaptor is found in which of the following?",
+      "type": "OBJ",
+      "options": ["Trematodes", "Aspidogastrea", "Nematodes", "Cestodes and teleosts"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Aspidogastrea"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Opisthaptor</h4><p>The <strong>opisthaptor</strong> is a large posterior attachment organ bearing suckers, hooks, and anchors. It is the defining attachment structure of <strong>Aspidogastrea</strong> — a small subclass of Trematoda that have a massive ventral adhesive organ (also called opisthosoma or the aspidogaster disc).</p><p>While monogeneans also have opisthaptors, the question specifically points to Aspidogastrea per the answer key (B).</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Aspidogastrea — characterized by a large opisthaptor used for attachment.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "topic": ["Parasitology", "Flukes"],
+    "Question": {
+      "content": "Common digenean parasites of fish include all EXCEPT…",
+      "type": "OBJ",
+      "options": ["Clinotonum spp", "Diplostomum spp", "Cysticercoid", "Posthodiplostonum spp"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cysticercoid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Digenean Parasites of Fish</h4><p><strong>Digeneans</strong> (Class Trematoda, subclass Digenea) are flukes with a two-host life cycle.</p><p>Common digenean parasites of fish include:<br>- <em>Diplostomum spp</em> (eye fluke) ✓<br>- <em>Clinostomum spp</em> (yellow grub) ✓<br>- <em>Posthodiplostomum spp</em> (white grub) ✓</p><p><strong>Cysticercoid</strong> is a larval stage of <em>cestodes</em> (tapeworms), NOT a digenean trematode. It is a bladder-less tapeworm larva found in intermediate hosts.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Cysticercoid — a cestode larval stage, not a digenean parasite.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "topic": ["Biology", "Animal Classification"],
+    "Question": {
+      "content": "The Gastrotricha is characterized by…",
+      "type": "OBJ",
+      "options": ["Presence of stomach hairs", "Absence of stomach hairs", "Absence of cilia", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Presence of stomach hairs"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Phylum Gastrotricha</h4><p>The name <em>Gastrotricha</em> comes from Greek: <em>gaster</em> (stomach/belly) + <em>thrix</em> (hair). They are microscopic aquatic animals characterized by <strong>hair-like cilia on their ventral surface</strong> (belly hairs) used for locomotion — gliding over surfaces.</p><p>They also have adhesive tubes for temporary attachment. Gastrotrichs live in marine and freshwater sediments and are important components of meiofauna.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Presence of stomach (ventral) hairs — cilia on the belly surface are their defining feature.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "topic": ["Biology", "Animal Classification"],
+    "Question": {
+      "content": "Which one of the following is a scavenger?",
+      "type": "OBJ",
+      "options": ["Hydra", "Planaria spp", "Schistosoma spp", "Paragonoums spp"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Planaria spp"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Scavengers Among Flatworms</h4><p><strong>Planaria</strong> (Class Turbellaria) are free-living flatworms that act as <strong>scavengers and predators</strong> in aquatic environments. They feed on dead organic matter, small invertebrates, and injured organisms using a muscular pharynx that can be extended to engulf prey.</p><p><strong>Compare:</strong><br>- <em>Hydra</em> → active predator (uses nematocysts to capture prey)<br>- <em>Schistosoma</em> spp → blood parasite<br>- <em>Paragonimus</em> spp → lung parasite</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Planaria spp — free-living scavengers/predators among flatworms.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "topic": ["Parasitology", "Platyhelminthes"],
+    "Question": {
+      "content": "The intermediate host for Schistosoma haematobium is…",
+      "type": "OBJ",
+      "options": ["Bulinus spp", "Biomphalaria spp", "Trematodes", "Onchomelania"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bulinus spp"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Snail Intermediate Hosts of Schistosoma</h4><p>Each Schistosoma species uses a specific freshwater snail as its intermediate host:</p><p>- <em>S. haematobium</em> (urinary schistosomiasis) → <strong>Bulinus spp</strong> ✓<br>- <em>S. mansoni</em> (intestinal schistosomiasis) → <em>Biomphalaria spp</em><br>- <em>S. japonicum</em> (Asian intestinal schistosomiasis) → <em>Oncomelania spp</em></p><p>This specificity is important in control programs — targeting the specific snail species can break the transmission cycle.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Bulinus spp — the specific snail intermediate host for S. haematobium.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "topic": ["Biology", "Animal Classification"],
+    "Question": {
+      "content": "Which of the following is NOT a branch of Metazoa?",
+      "type": "OBJ",
+      "options": ["Parazoa", "Eumetazoa", "Mesozoa", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Branches of Metazoa</h4><p>Kingdom Animalia (Metazoa) is broadly divided into:</p><p>- <strong>Parazoa</strong>: Animals lacking true tissues (e.g., sponges — Porifera). ✓ valid branch<br>- <strong>Eumetazoa</strong>: Animals with true tissues and organs (all other animals). ✓ valid branch<br>- <strong>Mesozoa</strong>: Simple, parasitic organisms (controversial but recognized as a metazoan group). ✓ valid branch</p><p>Since all three (Parazoa, Eumetazoa, Mesozoa) are recognized branches of Metazoa, <strong>none of the above</strong> is the correct answer — none of the listed options is excluded.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: None of the above — all three are valid branches of Metazoa.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "topic": ["Platyhelminthes", "Biology"],
+    "Question": {
+      "content": "Osmoregulation in flatworms is by…",
+      "type": "OBJ",
+      "options": ["Diffusion", "Osmosis", "Coelom", "Flame cells"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Flame cells"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Osmoregulation in Flatworms</h4><p>Flatworms (Platyhelminthes) are acoelomate (no body cavity) and use a <strong>protonephridial system</strong> with specialized cells called <strong>flame cells</strong> (cyrtocytes) for osmoregulation and excretion.</p><p><strong>How flame cells work:</strong><br>- Bundles of cilia inside the cell beat rhythmically, resembling a flickering flame (hence the name).<br>- This beating draws excess water and wastes into the tubule network.<br>- Fluid flows through collecting tubules and exits via nephridiopores on the body surface.</p><p style=\"color: var(--cAns); font-weight: bold;\">Answer: Flame cells — the protonephridial system of flatworms.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "topic": ["Biology", "Animal Classification"],
+    "Question": {
+      "content": "The differentiation of a definite head end is…?",
+      "type": "OBJ",
+      "options": ["Metabolization", "Segmentation", "Differentiation", "Cephalization"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cephalization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style=\"color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);\"><h4 style=\"color: var(--strongColor); margin-top: 0;\">Cephalization</h4><p><strong>Cephalization</strong> is the evolutionary trend in which nervous tissue and sensory organs become concentrated at the anterior (head) end of an animal, forming a distinct head.</p><p>This is associated with <strong>bilateral symmetry</strong> and directional movement — the head end encounters the environment first, so having sense organs and a brain there provides a major survival advantage.</p><p><em>Note:</em> The answer key records A (metabolization) for this question, which appears to be an error. Biologically, the correct and universally accepted answer is <strong>cephalization (D)</strong>.</p><p style=\"color: var(--cAns); font-weight: bold;\">Biological answer: Cephalization (D) — concentration of nervous/sensory structures at the head end.</p></div>"
+    }
+  }
+]
